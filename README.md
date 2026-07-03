@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Harsh
+💫 Hi 👋, I'm Harsh
 A passionate Data Analyst || Prompt Engineer  
 
 Email Me 👉 ✉️ **harshkumarjha2514@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **harshkumarjha2514@gmail.com** For Collaboration/Project o
 - 😄 Pronouns: Harsh Sir
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:

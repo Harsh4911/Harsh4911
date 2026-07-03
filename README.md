@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Harsh
-**A passionate Data Analyst || Prompt Engineer 
+A passionate Data Analyst || Prompt Engineer 
 
 Email Me 👉 ✉️ **harshkumarjha2514@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 

@@ -46,5 +46,23 @@ Email Me 👉 ✉️ **harshkumarjha2513@gmail.com** For Collaboration/Project o
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![SciPy](https://shields.io) ![scikit-learn](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Power Bi](https://shields.io) ![Tableau](https://shields.io) ![Matplotlib](https://shields.io) ![VS Code](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Jupyter Notebook](https://shields.io) ![Flask](https://shields.io) ![Microsoft Excel](https://shields.io)
-
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="SciPy" />
+  <img src="https://shields.io" alt="scikit-learn" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Power BI" />
+  <img src="https://shields.io" alt="Tableau" />
+  <img src="https://shields.io" alt="Matplotlib" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="Jupyter" />
+  <img src="https://shields.io" alt="Flask" />
+  <img src="https://shields.io" alt="Excel" />
+</p>

@@ -43,9 +43,3 @@ Email Me 👉 ✉️ **harshkumarjha2513@gmail.com** For Collaboration/Project o
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Harsh4910) 
 
-
-![JavaScript](https://shields.io) ![SQL](https://shields.io) ![SciPy](https://shields.io) ![scikit-learn](https://shields.io) ![PostgreSQL](https://shields.io) ![Tableau](https://shields.io) ![VS Code](https://shields.io) ![Git](https://shields.io) ![Flask](https://shields.io) ![Excel](https://shields.io)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-

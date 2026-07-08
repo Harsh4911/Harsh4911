@@ -1,14 +1,14 @@
 💫 Hi 👋, I'm Harsh
 A passionate Data Analyst || Prompt Engineer || 
 
-Email Me 👉 ✉️ **harshkumarjha2513@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **harshkumarjha2514@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 I’m currently working on: Scaling impactful EdTech solutions and optimizing workflows for High-Stakes Coaching environments.
 - 🌱 I’m currently learning: Advanced digital pedagogy tools, data-driven student performance analytics, and mastering fingerstyle    guitar arrangements.
 - 👯 I’m looking to collaborate on: Innovative EdTech projects, automated student assessment tools.
 - 🤔 I’m looking for help with: Integrating AI-driven personalization into high-stakes test preparation platforms.
 - 💬 Ask me about: EdTech strategy, high-stakes exam coaching operations, curriculum design, collaboration, Tech Support.
-- 📫 How to reach me: harshkumarjha2513@gmail.com
+- 📫 How to reach me: harshkumarjha2514@gmail.com
 - 😄 Pronouns: Harsh Sir
 - ⚡ Fun fact: I Love Tech and Tech Loves Me (and when tech takes a break, my guitar takes over!).
 ## 🏆 GitHub Trophies

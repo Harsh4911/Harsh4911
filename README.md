@@ -43,26 +43,9 @@ Email Me 👉 ✉️ **harshkumarjha2513@gmail.com** For Collaboration/Project o
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Harsh4910) 
 
+
+[![Python](https://shields.io)](https://github.com) [![JavaScript](https://shields.io)](https://github.com) [![SQL](https://shields.io)](https://github.com) [![NumPy](https://shields.io)](https://github.com) [![Pandas](https://shields.io)](https://github.com) [![SciPy](https://shields.io)](https://github.com) [![scikit-learn](https://shields.io)](https://github.com) [![MySQL](https://shields.io)](https://github.com) [![PostgreSQL](https://shields.io)](https://github.com) [![Power Bi](https://shields.io)](https://github.com) [![Tableau](https://shields.io)](https://github.com) [![Matplotlib](https://shields.io)](https://github.com) [![VS Code](https://shields.io)](https://github.com) [![Git](https://shields.io)](https://github.com) [![GitHub](https://shields.io)](https://github.com) [![Jupyter Notebook](https://shields.io)](https://github.com) [![Flask](https://shields.io)](https://github.com) [![Microsoft Excel](https://shields.io)](https://github.com)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="SciPy" />
-  <img src="https://shields.io" alt="scikit-learn" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="Power BI" />
-  <img src="https://shields.io" alt="Tableau" />
-  <img src="https://shields.io" alt="Matplotlib" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Jupyter" />
-  <img src="https://shields.io" alt="Flask" />
-  <img src="https://shields.io" alt="Excel" />
-</p>

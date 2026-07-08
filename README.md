@@ -45,3 +45,6 @@ Email Me 👉 ✉️ **harshkumarjha2513@gmail.com** For Collaboration/Project o
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![SciPy](https://shields.io) ![scikit-learn](https://shields.io) ![MySQL](https://shields.io) ![PostgreSQL](https://shields.io) ![Power Bi](https://shields.io) ![Tableau](https://shields.io) ![Matplotlib](https://shields.io) ![VS Code](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Jupyter Notebook](https://shields.io) ![Flask](https://shields.io) ![Microsoft Excel](https://shields.io)
+

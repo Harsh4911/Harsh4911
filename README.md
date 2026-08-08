@@ -3,14 +3,15 @@ A passionate Full Stack Engineer | Next.js & TypeScript | AI Systems
 
 Email Me 👉 ✉️ **harshkumarjha2514@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on: Scaling impactful EdTech solutions and optimizing workflows for High-Stakes Coaching environments.
-- 🌱 I’m currently learning: Advanced digital pedagogy tools, data-driven student performance analytics, and mastering fingerstyle    guitar arrangements.
-- 👯 I’m looking to collaborate on: Innovative EdTech projects, automated student assessment tools.
-- 🤔 I’m looking for help with: Integrating AI-driven personalization into high-stakes test preparation platforms.
-- 💬 Ask me about: EdTech strategy, high-stakes exam coaching operations, curriculum design, collaboration, Tech Support.
-- 📫 How to reach me: harshkumarjha2514@gmail.com
-- 😄 Pronouns: Harsh Sir
-- ⚡ Fun fact: I Love Tech and Tech Loves Me (and when tech takes a break, my guitar takes over!).
+🔭 **I’m currently working on:** Building enterprise-grade, scalable Full-Stack applications using Next.js, React, TypeScript, and Node.js (Projects: CyberShield, NovaTrace, HealthPulse, DevPulse-AI).
+🌱 **I’m currently learning:** Advanced System Design, Microservices Architecture, Cloud Deployment (Docker/AWS), and mastering complex fingerstyle guitar arrangements.
+👯 **I’m looking to collaborate on:** Open-source Full-Stack projects, SaaS platforms, and AI-driven web applications.
+🤔 **I’m looking for help with:** Deep-level WebSockets optimization and Distributed Database Caching strategies.
+💬 **Ask me about:** React/Next.js, REST API Design, TypeScript, Full-Stack Architecture, Data Analytics, and Tech Troubleshooting.
+📫 **How to reach me:** harshkumarjha2514@gmail.com
+😄 **Pronouns:** Harsh / Harsh Sir
+⚡ **Fun fact:** I Love Tech and Tech Loves Me (and when tech takes a break, my guitar takes over!).
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 

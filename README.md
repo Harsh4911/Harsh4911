@@ -8,9 +8,13 @@ Email Me 👉 ✉️ **harshkumarjha2514@gmail.com** For Collaboration/Project o
 🌱 **I’m currently learning:** Advanced System Design, Microservices Architecture, Cloud Deployment (Docker/AWS), and mastering complex fingerstyle guitar arrangements.
 
 👯 **I’m looking to collaborate on:** Open-source Full-Stack projects, SaaS platforms, and AI-driven web applications.
+
 🤔 **I’m looking for help with:** Deep-level WebSockets optimization and Distributed Database Caching strategies.
+
 💬 **Ask me about:** React/Next.js, REST API Design, TypeScript, Full-Stack Architecture, Data Analytics, and Tech Troubleshooting.
+
 📫 **How to reach me:** harshkumarjha2514@gmail.com
+
 😄 **Pronouns:** Harsh / Harsh Sir
 ⚡ **Fun fact:** I Love Tech and Tech Loves Me (and when tech takes a break, my guitar takes over!).
 
